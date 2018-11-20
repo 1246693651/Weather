@@ -1,0 +1,14 @@
+<!--index.wxml-->
+<view class='content'>
+  <view class='today'>
+    <view class='temp'>4℃</view>
+    <view class='lowhigh'>-1/10</view>
+    <view class='type'>晴</view>
+    <view class='city'>北京</view>
+    <view class='week'>8日星期二</view>
+    <view class='weather'>无持续风行 微风级</view>
+  </view>
+  <view class='hr'></view>
+  <view class='future'>将来天气情况</view>
+  <view class='tip'>友情提示</view>
+</view>
